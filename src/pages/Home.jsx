@@ -4,7 +4,6 @@ import {
   IconCheck,
   IconStar,
   IconShieldCheck,
-  IconClock,
   IconAward,
 } from "@tabler/icons-react";
 import { Link } from "react-router";
